@@ -9,14 +9,13 @@
 
 
 
-</h2>
 
 <h2 align="left">
   ACTIVE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. **Crypto Baby** . With a strong passion for technology and expertise in Smart Contract Auditing, Malware analysis, Vulnerability assessment, and  my goal is to safeguard digital assets and contribute to a more secure online community. 
+I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. CRYPTO . With a strong passion for technology and expertise in Smart Contract Auditing, Malware analysis, Vulnerability assessment, and  my goal is to safeguard digital assets and contribute to a more secure online community. 
 
 
 <details>
@@ -108,7 +107,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 <details>
 <summary>Buy Me A Coffee</summary>
 
-**Check Out AirdropInsider,Use my REF code.**  <img align='right' src="https://media.giphy.com/media/L7UaDPBNGC3dVN7Cab/giphy.gif" width="125px"/>
+**Check Out Airdrop Insider Find the new Crypto Projects with Airdrops, Use my REF and send me and email for a gift**
 
 <p align="center"><a href="https://airdropinsider.io"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
@@ -118,9 +117,8 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 
 
-
 <p align="center">
-  <b><i>"Shhhhhhhh; Aliens are here"</i></b>
+  <b><i>"Never give up. Never back down."</i></b>
 </p>
 
 <p align="center">

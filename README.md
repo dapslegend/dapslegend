@@ -107,7 +107,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 <details>
 <summary>Buy Me A Coffee</summary>
 
- <div align="center"> **Check Out Airdrop Insider Find the new Crypto Projects with Airdrops, Use my REF code.**, </div>
+**Check Out Airdrop Insider Use my REF code.** 
 
 <p align="center"><a href="https://airdropinsider.io"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 

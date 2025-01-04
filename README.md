@@ -1,5 +1,4 @@
-
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+[//]: # (<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -16,20 +15,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`D4PS`](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. CRYPTO . With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+- **Name**: D4ps
+- **From**: Africa
+- **Bug Hunter** | **Data Scientist** | **Mobile App Developer**
+- i have experience all programming languages and frameworks
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at **support@airdropinsider.io**
 
 </details>
 <br>
@@ -39,8 +38,6 @@ I'm **[`D4PS`](https://www.youtube.com/@lostsecc)**, a hacker & Security Researc
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 Still Learning Bug hunting & malware forensics.
 
 👉 Managing Tech Communities & Content creator.
 

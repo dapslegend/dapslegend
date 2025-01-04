@@ -47,7 +47,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 👉 Currently Learning mobile pentesting & web3 
 
-`Updating:`   <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Currently+Building+MELODY,+a+decentralized+music+streaming+Platform." alt="Typing SVG" />
   </a>
 

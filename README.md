@@ -120,7 +120,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Shhhhhhhh; Aliens are here"</i></b>
 </p>
 
 <p align="center">

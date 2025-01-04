@@ -40,7 +40,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Building Tech Communities & Marketing.
+👉 Building Tech Communities & Marketing
 
 👉 Fuzzing and Auditing Smart Contracts
 

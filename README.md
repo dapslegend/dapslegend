@@ -106,7 +106,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
-<summary>Buy Me A Coffee **Use my Ref Code.**  </summary>
+<summary>Buy Me A Coffee  </summary> 
 
 <img align='right' src="https://media.giphy.com/media/L7UaDPBNGC3dVN7Cab/giphy.gif" width="125px"/>
 
@@ -114,7 +114,6 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 
 </details>
-
 
 
 

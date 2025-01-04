@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. CRYPTO . With a strong passion for technology and expertise in Smart Contract Auditing, Malware analysis, Vulnerability assessment, and  my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. CRYPTO . With a strong passion for technology and expertise in Smart Contract Auditing, Malware analysis, Vulnerability assessment, and  my goal is to safeguard digital assets and contribute to a more secure online community. 
 
 
 <details>
@@ -47,7 +47,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 
 👉 Currently Learning mobile pentesting & web3 
 
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:`  Currently Building MELODY, a decentralized music streaming Platform.
 
 ---
 

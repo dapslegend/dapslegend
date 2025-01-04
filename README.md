@@ -51,7 +51,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Building+MELODY+on+Sui" alt="Typing SVG" />
   </a>
 
-**[`Melody`](https://x.com/MelodyMusicai)**
+**[`Melody Rewards Music Listeners with NFTs. Read More`](https://x.com/MelodyMusicai)**
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 

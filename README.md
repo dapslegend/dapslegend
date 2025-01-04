@@ -25,7 +25,7 @@ I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Speciali
 - **Name**: D4ps
 - **From**: Africa
 - **Bug Hunter** | **Data Scientist** | **Mobile App Developer**
-- i have experience all programming languages and frameworks
+- i have experience in all programming languages and frameworks
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 

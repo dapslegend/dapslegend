@@ -1,129 +1,86 @@
-[//]: # (<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>)
+<div align="center">
+
+# Ayodapo Adesiyan · `dapslegend`
+
+**Senior Cybersecurity Engineer** · Offensive security · Application and smart-contract assurance
+
+[![GitHub](https://img.shields.io/badge/GitHub-dapslegend-111111?style=for-the-badge&logo=github)](https://github.com/dapslegend)
+[![X](https://img.shields.io/badge/X-0xd4ps-111111?style=for-the-badge&logo=x)](https://x.com/0xd4ps)
+
+Authorized testing only. Findings are reproduced in isolated labs, documented with evidence, and handed to owners for remediation.
+
+</div>
+
+---
+
+## Profile
+
+I design and run security programs that hold up under review: threat models, controlled proof-of-concept work, and fixes that close the class of bug, not a single payload.
+
+Focus areas:
+
+- **Web application security** — injection, authentication and session flaws, access control, and safe reproduction against scoped targets
+- **Smart-contract assurance** — access control, accounting, upgrade and oracle risk; fork-based proofs, never live broadcasts
+- **Detection and hardening** — log limits, least privilege, fail-closed checks, and regression tests that keep a fix from regressing
+- **Secure engineering** — Go, Rust, Python, Solidity; Docker isolation; evidence-first writeups
+
+Public lab notes live in [`poc`](https://github.com/dapslegend/poc). Production systems and private engagements are not published here.
+
+---
+
+## How I work
+
+| Phase | What I deliver |
+|---|---|
+| Scope | Asset, trust boundary, and rules of engagement before any test |
+| Reproduce | Minimal, deterministic PoC in a sandbox or local fork |
+| Assess | Impact, blast radius, and what would make the issue critical versus informational |
+| Fix | Patch plus a regression check; no "works on my payload" closures |
+| Report | Steps, evidence, and remediation an owner can verify |
+
+I do not publish exploit kits, stealers, or phishing kits. Public repos are for defensive research and authorized proof only.
+
+---
+
+## Selected public work
+
+- [`poc`](https://github.com/dapslegend/poc) — isolated withdrawal-queue denial-of-service lab (invalid index list). Documents the bug class and the fix. No mainnet interaction.
+- [`revm-inspectors`](https://github.com/dapslegend/revm-inspectors) — EVM execution hooks for inspection and tracing.
+- [`rust-proxy`](https://github.com/dapslegend/rust-proxy) — Rust reverse proxy, developmental, for controlled traffic inspection.
+- [`ityfuzz`](https://github.com/dapslegend/ityfuzz) — bytecode-level hybrid fuzzer for smart contracts.
+- [`bounty-targets-hunt`](https://github.com/dapslegend/bounty-targets-hunt) — scoped bounty-target feeder for authorized programs only.
+
+---
+
+## Stack
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Web: authorization, injection, session handling, WAF-aware reproduction.
+Chain: storage and bytecode measurement, fork tests.
+Ops: container isolation, log rotation, least-privilege service accounts.
+
+---
+
+## GitHub
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dapslegend&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/dapslegend)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dapslegend&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000)](https://github.com/dapslegend)
+
+---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+guy" alt="Typing SVG" />
-  </a>
-</div>
 
+**Ayodapo Adesiyan** · Senior Cybersecurity Engineer · [github.com/dapslegend](https://github.com/dapslegend)
 
-
-
-</h2>
-
-<h2 align="left">
-  ACTIVE
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
-I'm **[`D4PS`](https://x.com/0xd4ps)**, Reverse engineer. Cybersecurity Specialist. Bug Hunter. Data Science Expert. iOS and Android Developer. **Crypto Baby** . With a strong passion for technology and expertise in Smart Contract Auditing, Malware analysis, Vulnerability assessment, and  my goal is to safeguard digital assets and contribute to a more secure online community. 
-
-
-<details>
-  <summary>More about me</summary>
-
-- **Name**: D4ps
-- **From**: Africa
-- **Bug Hunter** | **Data Scientist** | **Mobile App Developer**
-- i have experience in all programming languages and frameworks
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **support@airdropinsider.io**
-
-</details>
-<br>
-
----
-
-<h2 id="present_status"> Present Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 Building Tech Communities & Marketing
-
-👉 Fuzzing and Auditing Smart Contracts
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Founder of AirdropInsider and Melody Ai
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Building+MELODY+on+Sui" alt="Typing SVG" />
-  </a>
-
-**[`Melody Rewards Music Listeners with NFTs. Read More`](https://x.com/MelodyMusicai)**
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-
-<br>
-
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Sui-008C8C?style=for-the-badge&logo=Sui&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Solidity-009639?style=for-the-badge&logo=Solidity&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/immunefi-0A0A0A?style=for-the-badge&logo=immunefi&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
-      <img src="https://img.shields.io/badge/Apple-2E8E8F?style=for-the-badge&logo=apple&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Movement-E95420?style=for-the-badge&logo=move&color=000000" alt="Movement" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Android-007ACC?style=for-the-badge&logo=Android&color=000000" alt="VS Code" />
-  </div>
+Authorized testing. Evidence over claims. Fix the class, not the sample.
 
 </div>
-
----
-
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dapslegend&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/dapslegend/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dapslegend&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/dapslegend/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapslegend&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
-
-
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-
-
-<img align='right' src="https://media.giphy.com/media/L7UaDPBNGC3dVN7Cab/giphy.gif" width="125px"/>
-
-<p align="center"><a href="https://airdropinsider.io"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-
-
-
-
-
-
-<p align="center">
-  <b><i>"Shhhhhhhh; I see dead people"</i></b>
-</p>
-
-<p align="center">
-<a>🌱</a>
-</p>
